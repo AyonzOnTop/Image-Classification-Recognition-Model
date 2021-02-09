@@ -1,4 +1,4 @@
-# Image Classifier/ Recognition Project
+# Bio-Specie Image Recognition Project
 
 ## Introduction
 This aim of this project is build a deep learning model using a pretrained neural network. The model would be use to categorize species of flowers commonly occuring in the United Kingdom.
